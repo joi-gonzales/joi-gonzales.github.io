@@ -1,1 +1,27 @@
+p{
+    width: 30%;
+    box-sizing:border-box;
+    float:left;
+}
 
+img{
+    float: right;
+    width: 30%;
+    box-sizing:border-box;
+    
+}
+#title2 {
+    font-size:30px;
+}
+a:hover {
+    color:black
+}
+body { 
+background-color: #b35844;
+}
+
+p { color: white;
+}
+
+body {
+    background-color: #b35844;
